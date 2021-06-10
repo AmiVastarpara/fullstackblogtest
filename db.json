@@ -1,0 +1,142 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "test post",
+      "description": "some post description for sample",
+      "profileId": 1
+    },
+    {
+      "title": "json-server2",
+      "description": "some post description for sample",
+      "profileId": 2,
+      "id": 2
+    },
+    {
+      "title": "Download Need For Speed Most Wanted 2012 Game For PC Free",
+      "description": "test description",
+      "profileId": "1",
+      "id": 3
+    },
+    {
+      "title": "Download Need For Speed Most Wanted 2012 Game For PC Free",
+      "description": "test description",
+      "profileId": "1",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1,
+      "profileId": 2
+    },
+    {
+      "body": "sample comment from app",
+      "postId": 1,
+      "profileId": 2,
+      "id": 2
+    },
+    {
+      "body": "sample comment from app",
+      "postId": 1,
+      "profileId": 2,
+      "id": 3
+    },
+    {
+      "body": "sample comment from app",
+      "postId": 1,
+      "profileId": 1,
+      "id": 4
+    },
+    {
+      "postId": "1",
+      "profileId": 1,
+      "id": 5
+    },
+    {
+      "body": "dsf dsf sdf ",
+      "postId": 1,
+      "profileId": 1,
+      "id": 6
+    },
+    {
+      "body": "second comment ",
+      "postId": 1,
+      "profileId": 1,
+      "id": 7
+    },
+    {
+      "body": "third Comment",
+      "postId": 1,
+      "profileId": 1,
+      "id": 8
+    }
+  ],
+  "likes": [
+    {
+      "id": 1,
+      "postId": 1,
+      "profileId": 2
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "profileId": 2
+    },
+    {
+      "id": 3,
+      "postId": 1,
+      "profileId": 2
+    },
+    {
+      "postId": 1,
+      "profileId": 1,
+      "id": 4
+    },
+    {
+      "postId": 1,
+      "profileId": 1,
+      "id": 5
+    }
+  ],
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Ami_Vastarpara",
+      "phone": "9737477332",
+      "email": "amivastarpara624@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Maulik_Vastarpara",
+      "phone": "9737477332",
+      "email": "maulik@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Ross",
+      "phone": "9737477332",
+      "email": "ross@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Monica",
+      "phone": "9737477332",
+      "email": "monica@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Monica second",
+      "phone": "9737477332",
+      "email": "monicasecond@gmail.com"
+    },
+    {
+      "name": "from app",
+      "email": "app@gmail.com",
+      "phone": "1234567890",
+      "id": 6
+    }
+  ]
+}
